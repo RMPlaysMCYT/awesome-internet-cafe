@@ -36,7 +36,6 @@ Software that meters PC usage, charges customers, and manages prepaid time/credi
 ### Open Source / Free
 
 - [GLPI Cafe Plugin](https://github.com/pluginsGLPI) — Asset and ticket tracking adapted for cafe inventory.
-- [omjibillingsystem](https://github.com/CharlieJamesGwapo/omjibillingsystem) — Modern internet access & billing system (TypeScript, Node, web client).
 - [phpCafeAdmin](https://sourceforge.net/projects/phpcafeadmin/) — Older PHP/MySQL billing system; useful as a reference implementation.
 
 ## Captive Portal & Authentication
@@ -98,8 +97,8 @@ Know which machines are up, who's using how much bandwidth, and when peak hours 
 
 End-to-end open source stacks worth studying or contributing to.
 
-- [omjibillingsystem](https://github.com/CharlieJamesGwapo/omjibillingsystem) — Modern web-based internet access and billing system.
 - [OpenSplash](https://github.com/dougbtv/opensplash) — Reference open source captive portal implementation.
+- [pfsense-captive-portal](https://github.com/pfsense/FreeBSD-ports) — pfSense's open captive portal source.
 - [PiHole](https://pi-hole.net/) — Not cafe-specific, but commonly deployed at the edge of cafe networks for ad/malware filtering.
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) — Alternative to PiHole with a nicer UI; good for content filtering in family-oriented cafes.
 
