@@ -81,6 +81,7 @@ For PC bangs, e-sports lounges, and gaming-focused cafes.
 - [Steam Family Sharing](https://store.steampowered.com/promotion/familysharing) — How most cafes legally share PC game libraries across machines.
 - [Lutris](https://lutris.net/) — Open source game launcher useful in Linux gaming cafes.
 - [Sunshine](https://github.com/LizardByte/Sunshine) + [Moonlight](https://moonlight-stream.org/) — Open source self-hosted game streaming, increasingly used to centralize GPUs.
+- [RonCafeLauncher](https://github.com/RMPlaysMCYT/RonCafeApp) - Modern Cafe Launcher Written in C# Using Avalonia 11
 
 ## Monitoring & Statistics
 
